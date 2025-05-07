@@ -126,7 +126,7 @@ function States() {
       </div>
       <div>
         {selectedCity && (
-          <p>{`You Selected ${selectedCity}, ${selectedState}, ${selectedCountry} `}</p>
+          <p>{`You selected ${selectedCity}, ${selectedState}, ${selectedCountry}`}</p>
         )}
       </div>
     </div>
